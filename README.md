@@ -5,10 +5,6 @@ Rodrigo Humberto Aguilera Mendoza AM201939
 Ingeniería en Ciencias de la Computación
 Universidad Don Bosco
 
-![LN Clients](assets/en/4/9.webp)*Lightning Wallets*
-
-
-
 
 Bitcoin wallets and Lightning wallets differ fundamentally in their architecture and use cases, although they share the common feature of private key management:
 
